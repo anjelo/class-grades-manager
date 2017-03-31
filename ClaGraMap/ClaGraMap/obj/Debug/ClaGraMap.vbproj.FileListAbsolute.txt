@@ -1,0 +1,61 @@
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.Classes.resources
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.Grades.resources
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.MetroForm.resources
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.Resources.resources
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.shtdown.resources
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.subjects.resources
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.vbproj.GenerateResource.Cache
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.vbproj.ResolveComReference.cache
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\bin\Debug\ClaGraMap.exe
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\bin\Debug\ClaGraMap.pdb
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\bin\Debug\ClaGraMap.xml
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\bin\Debug\System.Data.SQLite.dll
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.exe
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.xml
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.pdb
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\bin\Debug\ClaGraMap.exe.manifest
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\bin\Debug\ClaGraMap.application
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.Form1.resources
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.exe.manifest
+C:\Users\Anjelo\Documents\Visual Studio 2008\Projects\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.application
+M:\work\ClaGraMap\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.vbproj.ResolveComReference.cache
+M:\work\ClaGraMap\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.exe
+M:\work\ClaGraMap\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.xml
+M:\work\ClaGraMap\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.pdb
+M:\work\ClaGraMap\ClaGraMap\ClaGraMap\bin\Debug\ClaGraMap.exe.manifest
+M:\work\ClaGraMap\ClaGraMap\ClaGraMap\bin\Debug\ClaGraMap.application
+M:\work\ClaGraMap\ClaGraMap\ClaGraMap\bin\Debug\ClaGraMap.exe
+M:\work\ClaGraMap\ClaGraMap\ClaGraMap\bin\Debug\ClaGraMap.pdb
+M:\work\ClaGraMap\ClaGraMap\ClaGraMap\bin\Debug\ClaGraMap.xml
+M:\work\ClaGraMap\ClaGraMap\ClaGraMap\obj\Debug\ResolveAssemblyReference.cache
+M:\work\ClaGraMap\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.Classes.resources
+M:\work\ClaGraMap\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.Form1.resources
+M:\work\ClaGraMap\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.Grades.resources
+M:\work\ClaGraMap\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.MetroForm.resources
+M:\work\ClaGraMap\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.Resources.resources
+M:\work\ClaGraMap\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.shtdown.resources
+M:\work\ClaGraMap\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.subjects.resources
+M:\work\ClaGraMap\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.vbproj.GenerateResource.Cache
+M:\work\ClaGraMap\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.exe.manifest
+M:\work\ClaGraMap\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.application
+C:\Users\Admin\Documents\SYSa\ClaGraMap\ClaGraMap\bin\Debug\ClaGraMap.exe.manifest
+C:\Users\Admin\Documents\SYSa\ClaGraMap\ClaGraMap\bin\Debug\ClaGraMap.application
+C:\Users\Admin\Documents\SYSa\ClaGraMap\ClaGraMap\bin\Debug\ClaGraMap.exe
+C:\Users\Admin\Documents\SYSa\ClaGraMap\ClaGraMap\bin\Debug\ClaGraMap.pdb
+C:\Users\Admin\Documents\SYSa\ClaGraMap\ClaGraMap\bin\Debug\ClaGraMap.xml
+C:\Users\Admin\Documents\SYSa\ClaGraMap\ClaGraMap\bin\Debug\System.Data.SQLite.dll
+C:\Users\Admin\Documents\SYSa\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.Classes.resources
+C:\Users\Admin\Documents\SYSa\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.Form1.resources
+C:\Users\Admin\Documents\SYSa\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.Grades.resources
+C:\Users\Admin\Documents\SYSa\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.MetroForm.resources
+C:\Users\Admin\Documents\SYSa\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.Resources.resources
+C:\Users\Admin\Documents\SYSa\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.shtdown.resources
+C:\Users\Admin\Documents\SYSa\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.subjects.resources
+C:\Users\Admin\Documents\SYSa\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.exe.manifest
+C:\Users\Admin\Documents\SYSa\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.application
+C:\Users\Admin\Documents\SYSa\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.exe
+C:\Users\Admin\Documents\SYSa\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.xml
+C:\Users\Admin\Documents\SYSa\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.pdb
+C:\Users\Admin\Documents\SYSa\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\SYSa\ClaGraMap\ClaGraMap\obj\Debug\ClaGraMap.vbproj.GenerateResource.Cache
